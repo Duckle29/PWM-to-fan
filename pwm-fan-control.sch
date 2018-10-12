@@ -7,7 +7,7 @@ Sheet 1 1
 Title "Inverted open-drain PWM to DC voltage"
 Date "2018-10-12"
 Rev "1"
-Comp "Design by N2"
+Comp "Design by N2: http://ee.david.promo"
 Comment1 "Schematic layout and PCB by Duckle"
 Comment2 ""
 Comment3 ""
@@ -31,13 +31,13 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x02 J1
 U 1 1 5BC195AC
-P 6825 3775
-F 0 "J1" H 6904 3767 50  0000 L CNN
-F 1 "Fan-out" H 6904 3676 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6825 3775 50  0001 C CNN
-F 3 "~" H 6825 3775 50  0001 C CNN
-	1    6825 3775
-	1    0    0    -1  
+P 6825 3875
+F 0 "J1" H 6904 3867 50  0000 L CNN
+F 1 "Fan-out" H 6904 3776 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6825 3875 50  0001 C CNN
+F 3 "~" H 6825 3875 50  0001 C CNN
+	1    6825 3875
+	1    0    0    1   
 $EndComp
 Text Label 6375 3775 0    50   ~ 0
 VFAN0
@@ -290,13 +290,13 @@ Wire Wire Line
 $Comp
 L Connector_Generic:Conn_01x02 J4
 U 1 1 5BC2F114
-P 6825 5350
-F 0 "J4" H 6904 5342 50  0000 L CNN
-F 1 "Fan-out" H 6904 5251 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6825 5350 50  0001 C CNN
-F 3 "~" H 6825 5350 50  0001 C CNN
-	1    6825 5350
-	1    0    0    -1  
+P 6825 5450
+F 0 "J4" H 6904 5442 50  0000 L CNN
+F 1 "Fan-out" H 6904 5351 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 6825 5450 50  0001 C CNN
+F 3 "~" H 6825 5450 50  0001 C CNN
+	1    6825 5450
+	1    0    0    1   
 $EndComp
 Text Label 6375 5350 0    50   ~ 0
 VFAN1
