@@ -7,5 +7,5 @@ The board was made for use with the Duet 3D printer controllers, but will work f
 
 Many thanks to [N2](http://ee.david.promo) who came up with the circuit. 
 
-![top](images/toppp.png)
-![bot](images/bottt.png)
+![top](images/top.png)
+![bot](images/bot.png)
